@@ -1,0 +1,17 @@
+{
+  "tokens": [
+    {"type": "TOKEN_INT_DECL", "lexeme": "#i"},
+    {"type": "TOKEN_IDENTIFIER", "lexeme": "x"},
+    {"type": "TOKEN_NEW_LINE", "lexeme": "\n"},
+    {"type": "TOKEN_IDENTIFIER", "lexeme": "x"},
+    {"type": "TOKEN_ASSIGN", "lexeme": "="},
+    {"type": "TOKEN_INT_LITERAL", "lexeme": "5"},
+    {"type": "TOKEN_PLUS", "lexeme": "+"},
+    {"type": "TOKEN_INT_LITERAL", "lexeme": "6"},
+    {"type": "TOKEN_NEW_LINE", "lexeme": "\n"},
+    {"type": "TOKEN_PRINT", "lexeme": "print"},
+    {"type": "TOKEN_IDENTIFIER", "lexeme": "x"},
+    {"type": "TOKEN_NEW_LINE", "lexeme": "\n"},
+    {"type": "TOKEN_EOF", "lexeme": "end"}
+  ]
+}
